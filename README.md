@@ -4,11 +4,11 @@
 
 pacman
 |
-|----images ( png file )\n
+|----images ( png file )
 |
-|----sounds ( WAV file )\n
+|----sounds ( WAV file )
 |
-|----src ( js file )\n
+|----src ( js file )
 |
 |
 (index.html)
